@@ -12,6 +12,7 @@
     "@types/node": "^22.10.7"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.730.0",
     "totp-generator": "^1.0.0"
   }
 }
